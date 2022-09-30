@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\avaliação\bin\Debug\net5.0\avaliação.exe
+C:\Users\Aluno\Desktop\avaliação\bin\Debug\net5.0\avaliação.deps.json
+C:\Users\Aluno\Desktop\avaliação\bin\Debug\net5.0\avaliação.runtimeconfig.json
+C:\Users\Aluno\Desktop\avaliação\bin\Debug\net5.0\avaliação.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\avaliação\bin\Debug\net5.0\avaliação.dll
+C:\Users\Aluno\Desktop\avaliação\bin\Debug\net5.0\ref\avaliação.dll
+C:\Users\Aluno\Desktop\avaliação\bin\Debug\net5.0\avaliação.pdb
+C:\Users\Aluno\Desktop\avaliação\obj\Debug\net5.0\avaliação.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\avaliação\obj\Debug\net5.0\avaliação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\avaliação\obj\Debug\net5.0\avaliação.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\avaliação\obj\Debug\net5.0\avaliação.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\avaliação\obj\Debug\net5.0\avaliação.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\avaliação\obj\Debug\net5.0\avaliação.dll
+C:\Users\Aluno\Desktop\avaliação\obj\Debug\net5.0\ref\avaliação.dll
+C:\Users\Aluno\Desktop\avaliação\obj\Debug\net5.0\avaliação.pdb
+C:\Users\Aluno\Desktop\avaliação\obj\Debug\net5.0\avaliação.genruntimeconfig.cache
