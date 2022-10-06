@@ -1,0 +1,30 @@
+ GET  listar todos os usuarios
+	/usuarios
+
+ GET  listar todos os jogos
+	/jogos
+
+ GET  listar usuario especifico (por CPF)
+	/usuario/{cpf}
+
+ POST  cadastrar usuario
+	/cadastrar
+
+ POST  cadastrar jogos
+	/cadastrar-jogo
+
+ POST  atualizar usuario
+	/atualizar/{cpf}
+
+ POST  atualizar jogos
+	/atualizar-jogo/{nome}
+
+ POST  deletar usuario
+	/deletar/{cpf}
+
+ POST  deletar jogo
+	/deletar-jogo/{nome}
+
+ POST  Criando locação
+	/alugarjogo
+	
